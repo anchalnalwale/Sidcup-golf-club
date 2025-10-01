@@ -1,16 +1,55 @@
-# Sidcup-golf-club
-Sidcup Family Golf is a website dedicated to providing information about the family-friendly golf course located in Sidcup. 
+# ⛳ Sidcup Family Golf Website  
 
-# About
-Sidcup Family Golf is a simple, informative website designed to provide users with details about a family-friendly golf course located in Sidcup. The site includes information about the course’s amenities, membership options, and upcoming events, offering an easy way to engage with visitors.
+Welcome to the **Sidcup Family Golf Website** repository!  
+This project is a fully responsive and interactive website built using **HTML, CSS, and JavaScript**.  
+It provides an elegant design and smooth user experience, showcasing a modern sports club landing page.  
 
-# Features
-1.User-friendly design and navigation
-2.Responsive layout for mobile and desktop
-3.Information on pricing, membership, and events
-4.Contact form for inquiries
+---
 
-# Technologies
-1.HTML: For the structure and content of the site
-2.CSS: For styling and layout
-3.JavaScript: For interactive features
+## 📖 About  
+The **Sidcup Family Golf Website** is a frontend project designed to replicate a professional sports club website.  
+It highlights different sections such as navigation, hero banner, service highlights, pricing, and footer.  
+The main goal of this project is to practice and demonstrate frontend web development skills, responsive design, and interactivity.  
+
+---
+
+## ✨ Features  
+- 🎨 **Modern UI/UX Design** – Clean and visually appealing layout.  
+- 📱 **Fully Responsive** – Works seamlessly on desktop, tablet, and mobile devices.  
+- 🖱️ **Interactive Elements** – Hover animations, smooth transitions, and engaging effects.  
+- 🌐 **Cross-Browser Compatibility** – Optimized for major browsers (Chrome, Firefox, Edge).  
+- ⚡ **Fast Performance** – Lightweight and efficient.  
+
+---
+
+## 🛠️ Technologies Used  
+This project is built with the following technologies:  
+
+- **HTML** – Semantic and structured markup  
+- **CSS** – Styling, animations, and responsive design  
+- **JavaScript** – Interactivity and dynamic features  
+
+---
+
+## 🚀 Getting Started  
+
+To run this project locally, follow these steps:  
+
+```bash
+# Clone the repository
+git clone https://github.com/anchalnalwale/Sidcup-golf-club.git
+
+# Navigate to the project directory
+cd Sidcup-golf-club
+
+# Open index.html in your browser
+```
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+---
+## Live Demo Link : 
+https://anchalnalwale.github.io/Sidcup-golf-club/
